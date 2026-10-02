@@ -13,6 +13,8 @@
 ## 파일 구조
 
 ```
+├── docs/
+│   └── DS-MINI-Design-울산_4반-김현수.pdf   # Day 1 EDA·모델 설계 전략 보고서
 ├── data/
 │   ├── README.md
 │   └── processed/          # 원본에서 추출한 셀별 피처·EDA용 곡선
