@@ -1,0 +1,11 @@
+data/raw/
+*.mat
+__pycache__/
+.venv/
+.DS_Store
+.ipynb_checkpoints/
+.omc/
+.ruff_cache/
+.pytest_cache/
+.jupyter/
+DS-MINI-Design-울산_4반-김현수.pdf
